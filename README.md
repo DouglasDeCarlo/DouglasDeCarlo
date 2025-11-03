@@ -30,9 +30,3 @@
 </div>
 
 
-###
-<div align="center">
-  <img src="https://profile-counter.glitch.me/DouglasDeCarlo/count.svg?"  />
-</div>
-
-###
